@@ -1,8 +1,6 @@
 -------------------------------------------------------------------------------------
-Python Weather Application
+Text to PDF Converter 
 -------------------------------------------------------------------------------------
-A lightweight, scalable **weather web application** built with Python** and Flask.  
-This service fetches real-time weather data and forecasts from the OpenWeatherMap 
-API, providing a responsive dashboard for users to track conditions globally. 
+A program that converts text file into PDF files
 -------------------------------------------------------------------------------------
 
