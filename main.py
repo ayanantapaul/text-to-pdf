@@ -52,4 +52,4 @@ pdf.multi_cell(w=WIDTH, h=LINE_SPACING, text=file_content, border=0, align='L')
 
 # Output
 pdf.output(OUTPUT_FILE_NAME)
-print("DONE")
+print("done")
